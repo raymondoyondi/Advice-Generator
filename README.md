@@ -32,7 +32,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed.
 
 1. Clone the repository:
 
-`git clone [Your Repository URL Here]`
+`git clone https://github.com/raymondoyondi/Advice-Generator.git`
 
 `cd advice-generator`
 
