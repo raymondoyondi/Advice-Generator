@@ -24,11 +24,10 @@ Responsive Design: Ensures a seamless experience across various devices and scre
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-Prerequisites
-
+**Prerequisites**
 Make sure you have Node.js and npm (Node Package Manager) installed.
 
-Steps
+**Steps**
 
 1. Clone the repository:
 
