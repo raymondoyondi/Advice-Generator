@@ -57,7 +57,9 @@ or
 The core logic for this application is straightforward and centered around fetching data with a React component.
 
 • `src/App.js` or `src/components/AdviceCard.js`: Contains the main logic for the component, including the state management for the current advice and the useEffect hook that handles the initial data fetch and subsequent fetches
+
 • The Data Flow:
+
 1. The component mounts, and the useEffect hook triggers.
 2. An asynchronous GET request is made using Axios to the external API endpoint.
 3. The promise resolves, and the advice text is extracted from the response data.
