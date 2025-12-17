@@ -32,26 +32,26 @@ Make sure you have Node.js and npm (Node Package Manager) installed.
 
 1. Clone the repository:
 
-git clone [Your Repository URL Here]
-cd advice-generator
+'git clone [Your Repository URL Here]'
+'cd advice-generator'
 
 2. Install dependencies: This command will install all the necessary packages, including react, react-dom, and axios
 
-npm install
+'npm install'
 # or
-yarn install
+'yarn install'
 
 3. Start the development server: This will compile the project and open it in your default web browser (usually at http://localhost:3000).
 
-npm start
+'npm start'
 # or
-yarn start
+'yarn start'
 
 # ⚙️ Project Structure
 
 The core logic for this application is straightforward and centered around fetching data with a React component.
 
-• src/App.js or src/components/AdviceCard.js: Contains the main logic for the component, including the state management for the current advice and the useEffect hook that handles the initial data fetch and subsequent fetches
+• 'src/App.js' or 'src/components/AdviceCard.js': Contains the main logic for the component, including the state management for the current advice and the useEffect hook that handles the initial data fetch and subsequent fetches
 • The Data Flow:
 1. The component mounts, and the useEffect hook triggers.
 2. An asynchronous GET request is made using Axios to the external API endpoint.
@@ -63,11 +63,11 @@ The core logic for this application is straightforward and centered around fetch
 Contributions are always welcome! If you have suggestions for improving the code, adding new features, or fixing bugs, please feel free to:
 
 1. Fork the repository.
-2. Create a new feature branch (git checkout -b feature/AmazingFeature).
-3. Commit your changes (git commit -m 'Add some AmazingFeature').
-4. Push to the branch (git push origin feature/AmazingFeature).
+2. Create a new feature branch ('git checkout -b feature/AmazingFeature').
+3. Commit your changes ('git commit -m 'Add some AmazingFeature').
+4. Push to the branch ('git push origin feature/AmazingFeature').
 5. Open a Pull Request.
 
 # 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the 'LICENSE' file for more details.
