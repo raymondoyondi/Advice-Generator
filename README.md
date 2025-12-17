@@ -25,6 +25,7 @@ Responsive Design: Ensures a seamless experience across various devices and scre
 To get a copy of this project up and running on your local machine, follow these steps:
 
 **Prerequisites**
+
 Make sure you have Node.js and npm (Node Package Manager) installed.
 
 **Steps**
