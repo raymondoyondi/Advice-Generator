@@ -15,20 +15,20 @@ Responsive Design: Ensures a seamless experience across various devices and scre
 
 # 💡 Technologies Used
 
-• Frontend Framework: React
-• HTTP Client: Axios
-• Styling: CSS
-• External API: Advice Slip JSON API
+- Frontend Framework: React
+- HTTP Client: Axios
+- Styling: CSS
+- External API: Advice Slip JSON API
 
 # 💻 Installation and Setup
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-# Prerequisites
+Prerequisites
 
 Make sure you have Node.js and npm (Node Package Manager) installed.
 
-# Steps
+Steps
 
 1. Clone the repository:
 
