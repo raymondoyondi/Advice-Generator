@@ -20,7 +20,7 @@ This project is a dynamic and interactive web application designed to provide us
 
 * **Frontend Framework:** React
 * **HTTP Client:** Axios
-* **Styling:** CSS
+* **Styling:** CSS3
 * **External API:** [Advice Slip JSON API](https://api.adviceslip.com/)
 
 ---
